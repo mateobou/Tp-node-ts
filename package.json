@@ -1,0 +1,22 @@
+{
+  "name": "node-js-tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node start"
+  },
+  "author": "Matéo",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.2.4",
+    "csv-parser": "^3.0.0",
+    "decompress": "^4.2.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
+}
